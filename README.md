@@ -36,7 +36,7 @@ $ cd /js or /css
 <!-- Add in HEAD -- >
 <link href="../css/jquery-fab-button.css" rel="stylesheet">
 <!-- Add After BODY -- >
-<script src="../jss/jquery-fab-button.min.js"></script>
+<script src="../js/jquery-fab-button.min.js"></script>
 ```
 
 4. Change to color you want
